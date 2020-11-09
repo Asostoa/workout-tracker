@@ -1,4 +1,4 @@
-# **Note-Taker**
+# **Workout-Tracker**
 ![Badge](https://img.shields.io/github/license/asostoa/workout-tracker)
 ![BadgeGithub](https://img.shields.io/github/followers/asostoa?style=social)
 ![BadgeSize](https://img.shields.io/github/repo-size/asostoa/workout-tracker)

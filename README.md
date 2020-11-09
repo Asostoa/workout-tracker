@@ -9,8 +9,6 @@ This application will allow users to keep track of all of the excercises of thei
 The database of this application is build with Robo 3t, the way we interacted with the database was by using the mongoose library.
 This is a server side application.
 
-![image (10)](https://user-images.githubusercontent.com/65316520/93364073-198f1d80-f816-11ea-9bc3-5c0eb9feccbb.png)
-
 
 ## Table of contents
 - [Description](#Description)
